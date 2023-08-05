@@ -2,7 +2,7 @@
 #### Main.ipynb is the maine code file.
 #### I performed these NLP tasks to apply for an intership 
 #### It includes web scraping, preprocessing and text analysis on the data
-######POSITIVE SCORE
+###### POSITIVE SCORE
       NEGATIVE SCORE
       POLARITY SCORE
       SUBJECTIVITY SCORE
