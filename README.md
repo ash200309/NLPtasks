@@ -1,5 +1,5 @@
 # NLP tasks
-#### Main.ipynb is the maine code file.
+#### main.ipynb is the main code file.
 #### I performed these NLP tasks to apply for an intership 
 #### It includes web scraping, preprocessing and text analysis on the data
 #### Calculating:
