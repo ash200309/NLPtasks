@@ -1,6 +1,6 @@
 # Text Analysis on web scraped data
 #### main.ipynb is the main code file.
-#### I performed these NLP tasks to apply for an intership 
+#### I performed these NLP tasks for practice 
 #### It includes web scraping, preprocessing and text analysis on the data
 #### Calculating:
       POSITIVE SCORE
